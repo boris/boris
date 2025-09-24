@@ -15,7 +15,6 @@
 ### 🔭 Current Focus
 - Building **inter-chain tooling** on [Cosmos](https://github.com/COSMOS)
 - Operating **node fleets** across Bitcoin, Ethereum, Cosmos, Solana  
-- Speaking at DevOpsDays about “_Some automation is better than none_”
 
 ### 🛠 Stacks I Love
 `Go` `Python` · `Terraform` `K8s` · `Cosmos SDK` `EVM` `Bitcoin`
@@ -24,7 +23,6 @@
 [`borisquiroz.dev`](https://borisquiroz.dev) · [@bquiroz_](https://twitter.com/bquiroz_) · `borisquiroz [at] pm.me`
 
 > _“Decentralisation only matters if it’s reliable.”_ —Me
-
 
 ---
 ### 🔨 Docker image for [tor](https://hub.docker.com/r/boris/tor)
