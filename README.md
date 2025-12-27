@@ -13,8 +13,9 @@
 ---
 
 ### 🔭 Current Focus
-- Building **inter-chain tooling** on [Cosmos](https://github.com/COSMOS)
-- Operating **node fleets** across Bitcoin, Ethereum, Cosmos, Solana  
+- Building **inter-chain tooling and AI** on [Cosmos](https://github.com/COSMOS)
+- Working on a [weekend project](https://admapu.xyz) on ERC-20
+- Operating **node fleets** across Bitcoin, Ethereum, Cosmos, Solana
 
 ### 🛠 Stacks I Love
 `Go` `Python` · `Terraform` `K8s` · `Cosmos SDK` `EVM` `Bitcoin`
@@ -24,6 +25,8 @@
 
 > _“Decentralisation only matters if it’s reliable.”_ —Me
 
+
+<!--
 ---
 ### 🔨 Docker image for [tor](https://hub.docker.com/r/boris/tor)
 
@@ -36,3 +39,4 @@ And then, configure your connections (your browser, maybe?) to use a SOCKS proxy
 #### Current version:
 - Ubuntu: 0.4.8.9 - `docker run -d -p 9150:9150 boris/tor:0.4.8.9`
 - Alpine: 0.4.8.12-r0 - `docker run -d -p 9150:9150 boris/tor:latest`
+-->
