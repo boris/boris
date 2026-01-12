@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I’m Boris 👋</h1>
 
 <p align="center">
-  <em>Senior Site Reliability Engineer · Blockchain & Web3 Builder</em>  
+  <em>Senior Engineer · SRE, Blockchain & Web3 Builder</em>  
 </p>
 
 <p align="center">
