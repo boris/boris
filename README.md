@@ -12,7 +12,7 @@
 
 ---
 
-### 🔭 Current Focus
+### 🔭 Currently Focused On
 - Building **inter-chain tooling and AI** on [Cosmos](https://github.com/COSMOS)
 - Working on a [weekend project](https://admapu.xyz) on ERC-20
 - Operating **node fleets** across Bitcoin, Ethereum, Cosmos, Solana
