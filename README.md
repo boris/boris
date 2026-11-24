@@ -1,11 +1,11 @@
 <h1 align="center">Hola, I’m Boris 👋</h1>
 
 <p align="center">
-  <em>Senior Engineer · SRE, Blockchain & Web3 Builder</em>  
+  <em>Senior Engineer · SRE, Blockchain, Web3 & AI Builder</em>  
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SRE-10%2B%20yrs-blue" />
+  <img src="https://img.shields.io/badge/SRE-15%2B%20yrs-blue" />
   <img src="https://img.shields.io/badge/CKA-K8s-blueviolet" />
   <img src="https://img.shields.io/badge/Certified-Blockchain%20Dev-orange" />
 </p>
